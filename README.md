@@ -1,4 +1,5 @@
 # Endpoints disponibles
+### Todos los endpoints funcionan en la ruta localhost/api/
 
 | Método | Endpoint                                       | Descripción                                                        |
 |--------|-----------------------------------------------|--------------------------------------------------------------------|
